@@ -1,6 +1,6 @@
 {
   "name": "gulp-phpjade-mod",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Compile phpjade-mod templates",
   "main": "index.js",
   "scripts": {
