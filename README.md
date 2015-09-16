@@ -2,11 +2,11 @@
 gulp-phpjade-mod
 =============
 
-Compiles [phpjade-mod](https://github.com/kimkwanka/phpjade-mod) templates using gulp.
 
 This module is a modification of [gulp-jade-php](https://travis-ci.org/oroce/gulp-jade-php) which itself
 is based on the well written [gulp-jade](https://github.com/phated/gulp-jade).
 
+It is used to compile [phpjade-mod](https://github.com/kimkwanka/phpjade-mod) templates using gulp.
 
 ### Usage
 
