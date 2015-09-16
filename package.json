@@ -1,0 +1,33 @@
+{
+  "name": "gulp-phpjade-mod",
+  "version": "1.0.0",
+  "description": "Compile phpjade-mod templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "keywords": [
+    "jade",
+    "php",
+    "phpjade-mod",
+    "gulp"
+  ],
+  "author": {
+    "name": "Kim Kwanka",
+    "email": "kimkwanka@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "gulp-util": "^3.0.0",
+    "jade": "^1.7.0",
+    "phpjade-mod": "^1.0.0",
+    "through2": "^0.5.1"
+  },
+  "devDependencies": {
+    "tap": "^0.4.12"
+  }
+}
