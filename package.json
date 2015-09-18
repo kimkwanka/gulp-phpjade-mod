@@ -1,6 +1,6 @@
 {
   "name": "gulp-phpjade-mod",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Compile phpjade-mod templates",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/kimkwanka/gulp-phpjade-mod/issues"
   },
   "homepage": "",
   "dependencies": {
@@ -33,8 +33,5 @@
   "repository": {
     "type": "git",
     "url": "github.com/kimkwanka/gulp-phpjade-mod.git"
-  },
-  "bugs": {
-    "url": "https://github.com/kimkwanka/gulp-phpjade-mod/issues"
   }
 }
