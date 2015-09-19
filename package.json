@@ -10,7 +10,8 @@
     "jade",
     "php",
     "phpjade-mod",
-    "gulp"
+    "gulp",
+    "wordpress"
   ],
   "author": {
     "name": "Kim Kwanka",
