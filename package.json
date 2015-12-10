@@ -1,6 +1,6 @@
 {
   "name": "gulp-phpjade-mod",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "description": "Compile phpjade-mod templates",
   "main": "index.js",
   "scripts": {
@@ -34,28 +34,5 @@
   "repository": {
     "type": "git",
     "url": "github.com/kimkwanka/gulp-phpjade-mod.git"
-  },
-  "gitHead": "c1e226622b0d5672c7e35655ef2f6672d16b1f36",
-  "_id": "gulp-phpjade-mod@1.0.5",
-  "_shasum": "e011a3058a2aba4ffd7e2851a0130a81e277f916",
-  "_from": "gulp-phpjade-mod@>=1.0.5 <2.0.0",
-  "_npmVersion": "2.11.3",
-  "_nodeVersion": "0.12.7",
-  "_npmUser": {
-    "name": "kimkwanka",
-    "email": "kimkwanka@gmail.com"
-  },
-  "dist": {
-    "shasum": "e011a3058a2aba4ffd7e2851a0130a81e277f916",
-    "tarball": "http://registry.npmjs.org/gulp-phpjade-mod/-/gulp-phpjade-mod-1.0.5.tgz"
-  },
-  "maintainers": [
-    {
-      "name": "kimkwanka",
-      "email": "kimkwanka@gmail.com"
-    }
-  ],
-  "directories": {},
-  "_resolved": "https://registry.npmjs.org/gulp-phpjade-mod/-/gulp-phpjade-mod-1.0.5.tgz",
-  "readme": "Readme.md"
+  }
 }
